@@ -1,4 +1,3 @@
-// src/TokenCleaner.js
 export class TokenCleaner {
     constructor(customPatterns = [], customSecretPatterns = []) {
         this.patterns = [

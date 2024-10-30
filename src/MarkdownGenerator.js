@@ -1,5 +1,3 @@
-
-// src/MarkdownGenerator.js
 import path from 'path';
 import { execSync } from 'child_process';
 import fs from 'fs/promises';
