@@ -1,0 +1,15 @@
+{
+  "name": "code-tokenizer-md",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "code-tokenizer-md": "./src/cli.js"
+  },
+  "dependencies": {
+    "llama3-tokenizer-js": "^1.0.0"
+  },
+  "peerDependencies": {
+    "node": ">=14.0.0"
+  }
+}
